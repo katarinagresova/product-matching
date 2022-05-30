@@ -1,5 +1,8 @@
 # Product Matching
 
+Package for finding products across multiple sellers. Primarily developed for pneu market but can be used for any product matching where data can be provided in specified format.
+
+
 ## Installation
 
 You can install this package using pip and github repository as follows:
